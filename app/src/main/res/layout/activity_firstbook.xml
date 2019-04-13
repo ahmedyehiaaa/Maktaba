@@ -14,7 +14,7 @@
         android:layout_margin="16dp"
         android:orientation="vertical"
         android:weightSum="12"
-        android:gravity="right">
+        >
 
         <TextView
             android:id="@+id/text"
