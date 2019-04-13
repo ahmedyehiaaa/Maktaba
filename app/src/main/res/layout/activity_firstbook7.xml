@@ -26,7 +26,6 @@
             android:textStyle="bold"
             android:textColor="#fff"
             android:textSize="15sp"
-            android:textAlignment="viewEnd"
             />
         <View
             android:layout_width="match_parent"
@@ -41,7 +40,6 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text=""
-            android:textAlignment="viewEnd"
             android:textColor="#fff"
             android:textSize="15sp"
             android:textStyle="bold" />
@@ -61,7 +59,6 @@
             android:textStyle="bold"
             android:textColor="#fff"
             android:textSize="15sp"
-            android:textAlignment="viewEnd"
             />
         <View
             android:layout_width="match_parent"
@@ -79,7 +76,6 @@
             android:layout_weight="1"
             android:textStyle="bold"
             android:textSize="15sp"
-            android:textAlignment="viewEnd"
             />
         <View
             android:layout_width="match_parent"
@@ -96,7 +92,6 @@
             android:layout_weight="1"
             android:textStyle="bold"
             android:textSize="15sp"
-            android:textAlignment="viewEnd"
             />
 
     </LinearLayout>

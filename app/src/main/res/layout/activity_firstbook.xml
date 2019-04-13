@@ -26,7 +26,7 @@
             android:text="الفهـــــــرس"
             android:textAlignment="center"
             android:textColor="@color/colorAccent"
-            android:textSize="35sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
         <TextView
@@ -37,7 +37,6 @@
             android:layout_marginTop="10dp"
             android:layout_weight="1"
             android:text="الباب الأول : أطوار حياتــه "
-            android:textAlignment="viewEnd"
             android:textColor="@color/colorAccent"
             android:textSize="23sp"
             android:textStyle="bold" />
@@ -51,7 +50,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الأول  : حياته الأولى"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -65,7 +63,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الثانى : فى رياض الحضرة"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -79,7 +76,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الثالث : الإذن بالدعوة"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -92,7 +88,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل  الرابع : الإقامة بالديار المصرية"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -104,7 +99,6 @@
             android:layout_marginTop="5dp"
             android:layout_weight="1"
             android:text="الباب الثانــى : دعـوتـــه "
-            android:textAlignment="viewEnd"
             android:textColor="@color/colorAccent"
             android:textSize="23sp"
             android:textStyle="bold" />
@@ -118,7 +112,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الأول   : منهجه فى السلوك إلى الله"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -132,7 +125,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="االفصل الثانى : أسس دعوته "
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -146,7 +138,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الثالث  : طريق الترقى"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -160,7 +151,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الرابع   : أذكاره وأوراده"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -174,7 +164,6 @@
             android:background="#4DB6AC"
             android:elevation="8dp"
             android:text="الفصل الخامس: من وصاياه رضى الله عنه"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -189,7 +178,6 @@
             android:elevation="8dp"
             android:lines="2"
             android:text="الفصل السادس  : رسالة أصول الطريق للشيخ \n                           زرروق"
-            android:textAlignment="viewEnd"
             android:textColor="@android:color/white"
             android:textSize="18sp"
             android:textStyle="bold" />
