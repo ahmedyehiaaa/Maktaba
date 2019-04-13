@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar"
+    android:orientation="vertical"
+    tools:context=".Firstbook">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical"
+        android:weightSum="12"
+        android:gravity="right">
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفهـــــــرس"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_below="@+id/text"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:text="الباب الأول : أطوار حياتــه "
+            android:textAlignment="viewEnd"
+            android:textColor="@color/colorAccent"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الأول  : حياته الأولى"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الثانى : فى رياض الحضرة"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الثالث : الإذن بالدعوة"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/f10"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل  الرابع : الإقامة بالديار المصرية"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="الباب الثانــى : دعـوتـــه "
+            android:textAlignment="viewEnd"
+            android:textColor="@color/colorAccent"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الأول   : منهجه فى السلوك إلى الله"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f5"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="االفصل الثانى : أسس دعوته "
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f6"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الثالث  : طريق الترقى"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f7"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الرابع   : أذكاره وأوراده"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f8"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:text="الفصل الخامس: من وصاياه رضى الله عنه"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/f9"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:background="#4DB6AC"
+            android:elevation="8dp"
+            android:lines="2"
+            android:text="الفصل السادس  : رسالة أصول الطريق للشيخ \n                           زرروق"
+            android:textAlignment="viewEnd"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</ScrollView>

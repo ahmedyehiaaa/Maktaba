@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ahmedyehia.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Firstbook" />
+        <activity android:name=".Secondbook" />
+        <activity android:name=".Thirdbook" />
+        <activity android:name=".Fourbook" />
+        <activity android:name=".Fivebbok" />
+        <activity android:name=".Sixbook" />
+        <activity android:name=".Sevenbook" />
+        <activity android:name=".Eightbook" />
+        <activity android:name=".Ninebook" />
+        <activity android:name=".Firstbook1" />
+        <activity android:name=".Firstbook2" />
+        <activity android:name=".Firstbook3" />
+        <activity android:name=".Firstbook4" />
+        <activity android:name=".Firstbook5" />
+        <activity android:name=".Firstbook6" />
+        <activity android:name=".Firstbook7" />
+        <activity android:name=".Firstbook8" />
+        <activity android:name=".Firstbook9" />
+        <activity android:name=".firstbook10"></activity>
+    </application>
+
+</manifest>
